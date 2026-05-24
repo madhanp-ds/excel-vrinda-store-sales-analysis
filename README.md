@@ -21,5 +21,6 @@ demographics, geographic performance, and channel-wise sales.
 - `screenshots/` — Dashboard preview images
 
 ## Dashboard Preview
-<img width="1650" height="656" alt="image" src="https://github.com/user-attachments/assets/7f0abf99-d164-4e37-9c6c-323b8438b179" />
+<img width="1573" height="657" alt="image" src="https://github.com/user-attachments/assets/177d725c-ba6d-4870-9ee0-4013499a7b02" />
+
 
